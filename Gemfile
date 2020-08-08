@@ -55,4 +55,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "stimulus_reflex", "~> 3.2"
 
-gem "view_component_reflex", "~> 2.1"
+gem "view_component_reflex", "2.1.2"
